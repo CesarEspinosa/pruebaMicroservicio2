@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\App.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\beans\UserBean.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\controller\Routes.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\model\Usuario.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\service\impl\UsuarioService.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\dao\impl\UsuarioDAO.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\dao\interfaces\UsuarioDaoInterface.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\controller\UsuarioController.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\exception\RestExceptionHandler.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\exception\APIError.java
+C:\Users\Usuario\Documents\DEV\Microservicios\workspace-sts\pruebagit\src\main\java\org\springframework\prueba\service\interfaces\UsuarioServiceInterface.java
